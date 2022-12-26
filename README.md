@@ -1,7 +1,7 @@
 # SharpLoader v1.0.0
 ![s](https://media.discordapp.net/attachments/1004371630023249931/1056217707080593498/image.png)
 
-- SharpLoader is a tool which auto generates massive amount of discord accounts to your server increasing the member count.
+- SharpLoader is a tool which member bots your server, THIS IS NOT A UNLOCKED TOKEN GENERATOR!
 - It's a compiled product meaning you get in .exe form.
 - Purchase here: https://discord.gg/zZyZ2U6dsT
 
