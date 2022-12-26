@@ -19,6 +19,7 @@
 - Proxies must be High Quality, because discord will flag them after a while of usage.
 - Capmonster API is required to solve the hcaptchas.
 - Auth Token is for those who have purchase the program, unique for every machine.
+- SharpLoader uses Chromedriver to run, make sure to have Chrome Browser installed.
 
 ## Installing the .NET 5.0 runtime
 
