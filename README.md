@@ -3,9 +3,7 @@
 
 - SharpLoader is a tool which member bots your server, THIS IS NOT A UNLOCKED TOKEN GENERATOR!
 - It's a compiled product meaning you get in .exe form.
-- Purchase here: https://discord.gg/zZyZ2U6dsT
-- Lifetime Auth Token - 25$
-- Source code - 75$
+- (PATCHED somewhat)
 
 # Usage
 ```json
